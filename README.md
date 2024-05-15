@@ -16,9 +16,9 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
 <p>Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.
 <p>*Professor</p>
-<p>Suas Disciplinas: Permitirá acesso a todas as disciplinas ministradas pelo professor.
-<p>Alunos/Disciplinas: Permitirá ao prodessor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.
-Consultar aluno: Permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.
+Suas Disciplinas: Permitirá acesso a todas as disciplinas ministradas pelo professor.
+<p>Alunos/Disciplinas: Permitirá ao prodessor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.</p>
+Consultar aluno: Permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.</p>
 *Pessoa Física
 Professores cadastrados: Permitirá a PF logada acesso as informações pessoais e acadêmicas de todos os professores cadastrados no sistema.
 Cadastrar novo professor:Permitirá a PF o cadastro de novo professor.
