@@ -1,2 +1,2 @@
 # UNIFACUL
-A universidade da Faculdade de cada estudante
+A universidade da Faculdade de cada estudante.
