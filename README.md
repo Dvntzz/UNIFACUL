@@ -12,8 +12,8 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 
 # TELAS
 <p> Login: Permitirá o login do usuário cadastrado. <br>
-*Alunos
-<p>Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
+<p>Alunos
+Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
 <p>Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.
 *Professor
 <p>Suas Disciplinas: Permitirá acesso a todas as disciplinas ministradas pelo professor.
