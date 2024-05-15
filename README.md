@@ -1,5 +1,5 @@
 # SISTEMA UNIFACUL
-Repositório destinado a 2ª etapa do Projeto Integrador do 3º período do Curso de Análise e Desenvolvimento de Sistemas. O grupo contém 5 integrantes. 
+Repositório destinado a 2ª etapa do Projeto Integrador do 3º período do Curso de Análise e Desenvolvimento de Sistemas do Senac. O grupo contém 5 integrantes. 
 - Felipe Dantas 
 - Heitor 
 - Lucas 
@@ -12,7 +12,8 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 
 # TELAS
 - Login: Permitirá o login do usuário cadastrado. </p>
-<p> Alunos <p/>
+
+<p> Alunos <p/> 
 - Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
 - Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.
 <p> Professor </p>  
