@@ -11,11 +11,11 @@ Repositório destinado a 2ª etapa do Projeto Integrador do 3º período do Curs
 Sistema criado para Gestão de consulta e cadastro de personas de uma grande Universidade.
 
 # TELAS
-<p> - Login: Permitirá o login do usuário cadastrado. </p>
-<p> - Alunos </p>
-Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
-<p>Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.
-<p>*Professor</p>
+- Login: Permitirá o login do usuário cadastrado. </p>
+<p> Alunos 
+- Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
+- Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.
+<p> Professor 
 Suas Disciplinas: Permitirá acesso a todas as disciplinas ministradas pelo professor.
 <p>Alunos/Disciplinas: Permitirá ao prodessor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.</p>
 Consultar aluno: Permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.</p>
