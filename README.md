@@ -1,10 +1,10 @@
 # SISTEMA UNIFACUL
 Repositório destinado a 2ª etapa do Projeto Integrador do 3º período do Curso de Análise e Desenvolvimento de Sistemas. O grupo contém 5 integrantes. 
-- Felipe Dantas <br>
-<p> Heitor <br>
-<p> Lucas <br>
-<p> Nathalia Regina Amorim de Calazans Guedes <br>
-<p> Pedro Henrique <br>
+- Felipe Dantas 
+- Heitor 
+- Lucas 
+- Nathalia Regina Amorim de Calazans Guedes 
+- Pedro Henrique <br>
 
 
 # DESCRIÇÃO/OBJETIVO
