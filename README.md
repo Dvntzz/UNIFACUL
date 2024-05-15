@@ -14,21 +14,21 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 - Login: Permitirá o login do usuário cadastrado. <br>
 **Alunos** 
 - Disciplinas: Disponibilizará todas as disciplinas disponíveis a serem cursadas pelo aluno.
-- Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.
+- Matricular em nova disciplina: Permitirá o aluno escolher a disciplina, o turno e a turma.<br>
 **Professor**  
 - Suas Disciplinas: Permitirá acesso a todas as disciplinas ministradas pelo professor.
 - Alunos/Disciplinas: Permitirá ao prodessor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.
-- Consultar aluno: Permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada. 
+- Consultar aluno: Permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.<br>
 **Pessoa Física**
 - Professores cadastrados: Permitirá a PF logada acesso as informações pessoais e acadêmicas de todos os professores cadastrados no sistema.
 - Cadastrar novo professor:Permitirá a PF o cadastro de novo professor.
 - Alunos Cadastrados: Permitirá a PF logada acesso a dados acadêmicos e pessoais, assim como cadastrar novo aluno.
-- Cadastrar novo aluno:Permitirá a PF o cadastro de novo aluno.
+- Cadastrar novo aluno:Permitirá a PF o cadastro de novo aluno.<br>
 **Pessoa Jurídica**
 - Funcionários PF cadastrados: Permitirá a PJ consultar todos funcionários cadastrados.
 - Cadastrar novo funcionário PF: Permitirá a PJ cadastrar novo funCionário PF.
 - Cadastrar nova PJ: Permitirá a PJ cadastrar nova Pessoa Jurídica.
-- Cadastrar novo Fornecedor: Permitirá a PJ cadastrar novo Fornecedor.
+- Cadastrar novo Fornecedor: Permitirá a PJ cadastrar novo Fornecedor.<br>
 
 # Link de telas do Figma
 ????????????????????????????????????
