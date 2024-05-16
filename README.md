@@ -43,7 +43,8 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 # Diagrama de caso de uso
 <img src="/img/DCU.png">
 
-
+# Diagrama de classes UML
+<img src="/img/DC.png">
 
 
 
