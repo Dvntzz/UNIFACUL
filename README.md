@@ -74,7 +74,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 ## Cadastrar novo professor
 <p> Essa tela permitirá a Pessoa Física o cadastro de novo professor.</p>
-<img src="/img/prof_cadastrar.png">
+<img src="/img/professor_cadastrar.png">
 
 ## Cadastrar novo aluno
 <p> Essa tela permitirá a Pessoa Física o cadastro de novo aluno.</p>
