@@ -59,7 +59,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Alunos 
+### Alunos 
 ## Disciplinas
 <p> Essa tela irá elencar todas as disciplinas disponíveis no semestre/ano a serem cursadas pelo aluno.</p>
 
@@ -83,7 +83,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-**Professor**  
+### Professor  
 # Suas Disciplinas
 <p> Essa tela irá elencar e disponibilizar acesso a todas as disciplinas ministradas pelo professor.</p>
 
@@ -119,7 +119,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-**Pessoa Física**
+### Pessoa Física
 # Professores cadastrados
 <p> Essa tela autorizará a Pessoa Física logada acesso as informações pessoais e acadêmicas de todos os professores cadastrados no sistema.</p>
 
@@ -186,7 +186,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-**Pessoa Jurídica**
+### Pessoa Jurídica
 # Funcionários PF cadastrados
 <p> Essa tela permitirá a Pessoa Jurídica consultar todos funcionários cadastrados. </p>
 
