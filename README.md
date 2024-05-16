@@ -33,9 +33,6 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 - Cadastrar nova PJ: Permitirá a PJ cadastrar nova Pessoa Jurídica.
 - Cadastrar novo Fornecedor: Permitirá a PJ cadastrar novo Fornecedor.<br>
 
-# Link de telas do Figma
-????????????????????????????????????
-
 # Link do Protótipo de telas do Figma
 https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-gerenciamento-de-dados?node-id=0%3A1&t=pkP19LMFS1BGNSaw-1
 
