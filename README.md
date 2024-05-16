@@ -72,7 +72,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Matricular em nova disciplina: 
+## Matricular em nova disciplina: 
 <p>Essa tela permitirá o aluno escolher a disciplina, o turno e a turma disponíveis para matrícula.</p>
 
 
@@ -84,7 +84,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 ### Professor  
-# Suas Disciplinas
+## Suas Disciplinas
 <p> Essa tela irá elencar e disponibilizar acesso a todas as disciplinas ministradas pelo professor.</p>
 
 
@@ -95,7 +95,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Alunos/Disciplinas
+## Alunos/Disciplinas
 <p> Essa tela permitirá ao professor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.</p>
 
 
@@ -107,7 +107,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Consultar aluno
+## Consultar aluno
 <p> Essa tela permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.</p>
 
 
@@ -120,7 +120,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 ### Pessoa Física
-# Professores cadastrados
+## Professores cadastrados
 <p> Essa tela autorizará a Pessoa Física logada acesso as informações pessoais e acadêmicas de todos os professores cadastrados no sistema.</p>
 
 
@@ -138,7 +138,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Cadastrar novo professor
+## Cadastrar novo professor
 <p> Essa tela permitirá a Pessoa Física o cadastro de novo professor.</p>
 
 
@@ -154,7 +154,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Alunos Cadastrados
+## Alunos Cadastrados
 <p> Essa tela permitirá a Pessoa Física logada acesso a dados acadêmicos e pessoais, assim como cadastrar novo aluno.</p>
 
 
@@ -168,7 +168,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Cadastrar novo aluno
+## Cadastrar novo aluno
 <p> Essa tela permitirá a Pessoa Física o cadastro de novo aluno.</p>
 
 
@@ -187,7 +187,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 ### Pessoa Jurídica
-# Funcionários PF cadastrados
+## Funcionários PF cadastrados
 <p> Essa tela permitirá a Pessoa Jurídica consultar todos funcionários cadastrados. </p>
 
 
@@ -201,7 +201,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Cadastrar novo funcionário PF
+## Cadastrar novo funcionário PF
 <p> Essa tela permitirá a PJ cadastrar novo funCionário PF.</p>
 
 
@@ -214,7 +214,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Cadastrar nova PJ
+## Cadastrar nova PJ
 <p> Essa tela permitirá a PJ cadastrar nova Pessoa Jurídica.</p>
 
 
@@ -229,7 +229,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-# Cadastrar novo Fornecedor
+## Cadastrar novo Fornecedor
 <p> Essa tela permitirá a PJ cadastrar novo Fornecedor.</p>
 
 
