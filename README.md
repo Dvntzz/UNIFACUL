@@ -4,7 +4,7 @@ Repositório destinado a 2ª etapa do Projeto Integrador do 3º período do Curs
 - Heitor 
 - Lucas 
 - Nathalia Regina Amorim de Calazans Guedes 
-- Pedro Henrique <br>
+- Pedro Henrique Medeiros de Oliveira <br>
 
 
 # DESCRIÇÃO/OBJETIVO
