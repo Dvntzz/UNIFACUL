@@ -19,16 +19,15 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 
 **Professor**  
 - Suas Disciplinas: Permitirá acesso a todas as disciplinas ministradas pelo professor.
-- Alunos/Disciplinas: Permitirá ao prodessor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.
-- Consultar aluno: Permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.<br>
+- Alunos/Disciplinas: Permitirá ao prodessor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas, assim como consultar dados pessoais de todos os alunos matriculados na respectiva disciplina.<br>
 
 **Pessoa Física**
-- Professores cadastrados: Permitirá a PF logada acesso as informações pessoais e acadêmicas de todos os professores cadastrados no sistema.
+- Gerenciar professores/alunos: Permitirá a PF logada acesso as informações pessoais e acadêmicas de todos os professores e alunos cadastrados no sistema,assim como cadastrar novo professor e/ou aluno.
 - Cadastrar novo professor:Permitirá a PF o cadastro de novo professor.
-- Alunos Cadastrados: Permitirá a PF logada acesso a dados acadêmicos e pessoais, assim como cadastrar novo aluno.
 - Cadastrar novo aluno:Permitirá a PF o cadastro de novo aluno.<br>
 
 **Pessoa Jurídica**
+- Gerenciar Personas: Permitirá a Pessoa Jurídica consultar personas já cadastradas ou escolher que tipo de nova persona ela irá cadastrar Pessoa Física, Pessoa Jurídica e/ou Fornecedor.
 - Funcionários PF cadastrados: Permitirá a PJ consultar todos funcionários cadastrados.
 - Cadastrar novo funcionário PF: Permitirá a PJ cadastrar novo funCionário PF.
 - Cadastrar nova PJ: Permitirá a PJ cadastrar nova Pessoa Jurídica.
@@ -49,200 +48,52 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 # Telas do Figma 
 ## Login
 <p> Primeira tela do Programa, responsável por validar o login e a senha do usuário/administrador do sistema. Nessa tela é autenticado os dados inseridos, para dar acesso a quem solicita a autorização para navegar dentro do sistema.</p>
-
-
-
-
-
-
-
-
-
+<img src="/img/login.png">
 
 ### Alunos 
 ## Disciplinas
 <p> Essa tela irá elencar todas as disciplinas disponíveis no semestre/ano a serem cursadas pelo aluno.</p>
-
-
-
-
-
-
-
-
-
+<img src="/img/aluno_disc.png">
 
 ## Matricular em nova disciplina: 
 <p>Essa tela permitirá o aluno escolher a disciplina, o turno e a turma disponíveis para matrícula.</p>
-
-
-
-
-
-
-
-
+<img src="/img/aluno_matric_disc.png">
 
 ### Professor  
 ## Suas Disciplinas
 <p> Essa tela irá elencar e disponibilizar acesso a todas as disciplinas ministradas pelo professor.</p>
-
-
-
-
-
-
-
-
+<img src="/img/prof_disc.png">
 
 ## Alunos/Disciplinas
-<p> Essa tela permitirá ao professor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas.</p>
-
-
-
-
-
-
-
-
-
-
-## Consultar aluno
-<p> Essa tela permitirá ao professor consultar dados pessoais dos alunos matriculados na disciplina por ele ministrada.</p>
-
-
-
-
-
-
-
-
-
+<p> Essa tela permitirá ao professor consultar o nome, matrícula e as notas de todos os alunos matriculados nas disciplinas por ele ministradas, assim como consultar dados pessoais dos mesmos.</p>
+<img src="/img/prof_consultar_aluno.png">
 
 ### Pessoa Física
-## Professores cadastrados
-<p> Essa tela autorizará a Pessoa Física logada acesso as informações pessoais e acadêmicas de todos os professores cadastrados no sistema.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Gerenciar professores/alunos 
+<p> Essa tela autorizará a Pessoa Física logada acesso as informações pessoais e acadêmicas de todos os professores e alunos cadastrados no sistema, assim como cadastrar novo professor e/ou aluno.</p>
+<img src="/img/prof_aluno_cadastrar.png">
 
 ## Cadastrar novo professor
 <p> Essa tela permitirá a Pessoa Física o cadastro de novo professor.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Alunos Cadastrados
-<p> Essa tela permitirá a Pessoa Física logada acesso a dados acadêmicos e pessoais, assim como cadastrar novo aluno.</p>
-
-
-
-
-
-
-
-
-
-
-
+<img src="/img/prof_cadastrar.png">
 
 ## Cadastrar novo aluno
 <p> Essa tela permitirá a Pessoa Física o cadastro de novo aluno.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="/img/aluno_cadastrar.png">
 
 ### Pessoa Jurídica
-## Funcionários PF cadastrados
-<p> Essa tela permitirá a Pessoa Jurídica consultar todos funcionários cadastrados. </p>
+## Gerenciar Personas 
+<p> Essa tela permitirá a Pessoa Jurídica consultar personas já cadastradas ou escolher que tipo de nova persona ela irá cadastrar Pessoa Física, Pessoa Jurídica e/ou Fornecedor.</p>
+<img src="/img/PF_PJ_fornecedor_cadastrar.png">
 
-
-
-
-
-
-
-
-
-
-
-
-## Cadastrar novo funcionário PF
-<p> Essa tela permitirá a PJ cadastrar novo funCionário PF.</p>
-
-
-
-
-
-
-
-
-
-
+## Cadastrar nova PF
+<p> Essa tela permitirá a PJ cadastrar nova Pessoa Física.</p>
+<img src="/img/PF_cadastrar.png">
 
 ## Cadastrar nova PJ
 <p> Essa tela permitirá a PJ cadastrar nova Pessoa Jurídica.</p>
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="/img/PJ_cadastrar.png">
 
 ## Cadastrar novo Fornecedor
 <p> Essa tela permitirá a PJ cadastrar novo Fornecedor.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="/img/fornecedor_cadastrar.png">
