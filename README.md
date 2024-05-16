@@ -1,8 +1,8 @@
 # SISTEMA UNIFACUL
 Repositório destinado a 2ª etapa do Projeto Integrador do 3º período do Curso de Análise e Desenvolvimento de Sistemas do Senac. O grupo contém 5 integrantes. 
-- Felipe Dantas 
-- Heitor 
-- Lucas 
+- Felipe Dantas do Nascimento
+- Heitor Borges da Cruz Silva
+- Lucas Marcelo Fonseca
 - Nathalia Regina Amorim de Calazans Guedes 
 - Pedro Henrique Medeiros de Oliveira <br>
 
