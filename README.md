@@ -41,7 +41,7 @@ Sistema criado para Gestão de consulta e cadastro de personas de uma grande Uni
 https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-gerenciamento-de-dados?node-id=0%3A1&t=pkP19LMFS1BGNSaw-1
 
 # Diagrama de caso de uso
-![Diagram de Caso de Uso](/assets/images/diagram caso de uso.png)
+<img src="/img/CDU.png">
 
 
 
