@@ -47,7 +47,7 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 <img src="/img/DC.png">
 
 # Telas do Figma 
-# Login
+## Login
 <p> Primeira tela do Programa, responsável por validar o login e a senha do usuário/administrador do sistema. Nessa tela é autenticado os dados inseridos, para dar acesso a quem solicita a autorização para navegar dentro do sistema.</p>
 
 
@@ -59,8 +59,8 @@ https://www.figma.com/board/U1Hs6McsbzG000pd5Zj39n/Prot%C3%B3tipo-do-sistema-de-
 
 
 
-**Alunos** 
-# Disciplinas
+# Alunos 
+## Disciplinas
 <p> Essa tela irá elencar todas as disciplinas disponíveis no semestre/ano a serem cursadas pelo aluno.</p>
 
 
